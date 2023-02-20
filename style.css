@@ -1,0 +1,69 @@
+.container
+{
+ 
+    margin: auto;
+    width: 400px;
+    height: 565px;
+    margin-top: 10%;
+    background-color: #f2f4f6;
+    font-weight: bold;
+
+}
+.input_text
+{
+    margin: 10px;
+    border: none;
+    outline: none;
+  
+ 
+}
+input[type=text] {
+    width: 100%;
+    height: 60px;
+    padding: 12px 15px;
+    margin: 10px 0px;
+    text-align: right;
+    font-size: 60px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #f2f4f6;
+}
+.row
+{
+    padding: 1px;
+    
+}
+button 
+{
+    font-size: 17px;
+    font-weight: bold;
+    padding: 12px; 
+    border: none;   
+}
+.row button:hover
+{
+    background-color: skyblue;
+}
+
+select
+{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-weight: bold; 
+    font-size: 15px;
+} 
+.btn_deg
+{
+    width:25%;
+}
+.btn
+{
+    width: 19%;
+}
+.btn_white
+{
+    background-color: white;
+    font-weight: bold;
+}
+
